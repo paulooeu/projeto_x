@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="GoStack" src="https://landing.investeae.com.br/wp-content/uploads/2017/11/projetosecreto-1-01.png" width="120px" />
 </h1>
-# Projeto-X
+
 <h3 align="center">
   Background  Projeto-X ( Nome a definir )
 </h3>
